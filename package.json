@@ -44,6 +44,16 @@
     ]
   },
   "devDependencies": {
-    "json-server": "^0.17.0"
+    "@types/axios": "^0.14.0",
+    "@types/json-server": "^0.14.4",
+    "@types/react": "^17.0.35",
+    "@types/react-dom": "^17.0.11",
+    "@types/react-icons": "^3.0.0",
+    "@types/react-modal": "^3.13.1",
+    "@types/react-router-dom": "^5.3.2",
+    "@types/styled-components": "^5.1.15",
+    "@types/yup": "^0.29.13",
+    "json-server": "^0.17.0",
+    "typescript": "^4.5.2"
   }
 }
