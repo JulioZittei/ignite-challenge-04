@@ -1,6 +1,6 @@
 import { BrowserRouter as Router } from 'react-router-dom';
 
-import Routes from './routes';
+import RouteList from './routes';
 
 import GlobalStyle from './styles/global';
 
@@ -8,7 +8,7 @@ const App = () => (
   <>
     <GlobalStyle />
     <Router>
-      <Routes />
+      <RouteList />
     </Router>
   </>
 );
