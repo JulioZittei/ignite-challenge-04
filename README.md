@@ -38,7 +38,7 @@ The application can be accessed at [`localhost:3000`](http://localhost:3000)
 You can access the live web application [`clicking here`](https://ignite-challenge-04.netlify.app/).
 
 <p align="center">
-  <img alt="app" src=".github/qr-code.png" width="20%">
+  <img alt="app" src=".github/qr-code.jpg" width="20%">
 </p>
 
 ## 📄 License
